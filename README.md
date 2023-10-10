@@ -2,7 +2,6 @@
 - 👀 I’m interested in froentEnd developement,web deelopment 
 - 🌱 I’m currently learning reactjs
 - 🔭 I'm currently doing interenship with Rablik private limited
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 prasadppatilppp@gmail.com
 
